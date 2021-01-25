@@ -1,6 +1,6 @@
 {
   "name": "ut/drupal_code_standards",
-  "description": "Resource for getting phpcs setup with everything you need to integrate Drupal standards with PhpStorm"
+  "description": "Resource for getting phpcs setup with everything you need to integrate Drupal standards with PhpStorm",
   "require": {
     "drupal/coder": "^8.3",
     "phpcompatibility/php-compatibility": "^9.3",
